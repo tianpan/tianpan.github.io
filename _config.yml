@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tianpan.github.io
+title: Paul's Notes
+email: tianpan@gmail.com
+author: Paul
+description: Recording & Sharing
+paginate: 3
+google_analytics: 
